@@ -2,7 +2,7 @@
  
 Unit test for a algorithm sorting function
 
-#Tecnologies used in this test: 
+# Tecnologies used in this test: 
 ° node.js
 ° jest
 ° javascript
