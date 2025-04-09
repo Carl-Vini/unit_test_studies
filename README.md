@@ -1,6 +1,6 @@
 # Unit Test
  
-Unit test for a algorithm sorting function
+Unit test for an algorithm sorting function
 
 # Tecnologies used in this test: 
 
